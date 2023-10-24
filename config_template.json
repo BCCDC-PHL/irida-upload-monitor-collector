@@ -1,0 +1,6 @@
+{
+    "uploaded_sequencing_runs_dir": "/path/to/upload_staging",
+    "excluded_runs_list": "/path/to/excluded_runs.csv",
+    "scan_interval_seconds": 30,
+    "output_dir": "/path/to/irida-upload-monitor/data"
+}
